@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [1135-customers-who-bought-all-products](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1135-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
