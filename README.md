@@ -48,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1135-customers-who-bought-all-products](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1135-customers-who-bought-all-products) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
