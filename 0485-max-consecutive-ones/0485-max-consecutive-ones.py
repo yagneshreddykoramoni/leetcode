@@ -9,7 +9,5 @@ class Solution(object):
                 if a>b:
                     b=a
                 a=0
-        if a>b:
-            b=a
-        return b
+        return max(a,b)
         
