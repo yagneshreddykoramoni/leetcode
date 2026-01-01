@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0013-roman-to-integer) |
+| [0645-set-mismatch](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0066-plus-one) |
 | [0485-max-consecutive-ones](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0067-add-binary) |
+| [0645-set-mismatch](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1942-primary-department-for-each-employee](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1942-primary-department-for-each-employee) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
