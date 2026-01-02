@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0645-set-mismatch) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1929-concatenation-of-array) |
