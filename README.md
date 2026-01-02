@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Array
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0645-set-mismatch) |
