@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0645-set-mismatch) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yagneshreddykoramoni/leetcode/tree/master/0067-add-binary) |
+| [1441-build-an-array-with-stack-operations](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/yagneshreddykoramoni/leetcode/tree/master/1929-concatenation-of-array) |
 ## Database
 |  |
